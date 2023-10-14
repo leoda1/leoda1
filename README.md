@@ -26,9 +26,8 @@
 <!-- 添加联系方式 -->
 ### Let's Connect
 
-- 📫 Email: your@email.com
-- 📱 LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- 🐦 Twitter: [Your Twitter Profile](link-to-twitter-profile)
+- 📫 Email: 2268185728@qq.com
+- 🐦 wechat: [leoleo135](link-to-twitter-profile)
 
 <!-- 添加 GitHub 统计 -->
 ### GitHub Stats
@@ -38,7 +37,7 @@
 <!-- 添加 GitHub 贡献图 -->
 ### GitHub Contributions
 
-![Your GitHub Contributions](https://github.com/your-username)
+![Your GitHub Contributions](https://github.com/leoda1)
 
 <!-- 添加底部徽章 -->
 ### Badges
