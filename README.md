@@ -1,6 +1,22 @@
 <h3 align="center">
     Hi~ Thank you for coming!
+    <img src="./imgs/hands.webp" width="25px">
 </h3>
+
+<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Lecturer+in+China+and+Japan;Self-taught+Code+Designer;Always+learning+new+things">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
+    <img src="https://img.shields.io/static/v1?label=Location&message=Tokyo&color=7BB32E&logo=audacity">
+</p>
+
+<br/>
+
+🎉 **Welcome to my GitHub profile!**
 
 ## 👨‍💻 My GitHub activities of last 31 days.
 
