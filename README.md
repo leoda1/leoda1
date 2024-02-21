@@ -6,7 +6,7 @@
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Lecturer+in+China+and+Japan;Self-taught+Code+Designer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Lecturer+in+China+and+Japan;Self-taught+Engineer+and+Researcher;Always+learning+new+things">
 </p>
 
 <p align="center">
@@ -17,6 +17,9 @@
 <br/>
 
 🎉 **Welcome to my GitHub profile!**
+> Never leave that till tomorrow which you can do today.
+>
+> -- <cite><em>Benjamin Franklin</em></cite>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
 
@@ -28,6 +31,10 @@
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/kalfazed/tensorrt_starter.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/kalfazed/multi-thread-programming.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/lucidrains/vit-pytorch.git">
