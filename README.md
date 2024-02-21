@@ -29,13 +29,6 @@
 ## 📘 My own favorite open source projects
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/kalfazed/tensorrt_starter.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
-</a>
-
-<a href="https://github.com/kalfazed/multi-thread-programming.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=nightowl" />
-</a>
 
 <a href="https://github.com/lucidrains/vit-pytorch.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=nightowl" />
@@ -65,6 +58,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&theme=nightowl" />
 </a>
 
+<a href="https://github.com/kalfazed/tensorrt_starter.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
+</a>
 
+<a href="https://github.com/kalfazed/multi-thread-programming.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=nightowl" />
+</a>
 
 
