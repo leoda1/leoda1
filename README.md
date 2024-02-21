@@ -1,19 +1,47 @@
-### Hi there 👋
+<h3 align="center">
+    Hi~ Thank you for coming!
+</h3>
 
-<!--
-**kalfazed/kalfazed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 My GitHub activities of last 31 days.
 
-Here are some ideas to get you started:
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalfazed&theme=react-dark&area=true&custom_title=kalfazed's%20Contribution%20Graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 My own favorite open source projects
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/kalfazed/tensorrt_starter.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/lucidrains/vit-pytorch.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/NVIDIA/FasterTransformer.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/wang-xinyu/tensorrtx.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/NVIDIA/cutlass.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=cutlass&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/shouxieai/tensorRT_Pro.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=nightowl" />
+</a>
+
+<a href="https://github.com/LunarVim/LunarVim.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&theme=nightowl" />
+</a>
+
+
+
+
