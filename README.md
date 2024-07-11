@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css">
+
+
 <h3 align="center">
     Hi~ Thank you for coming!
     <img src="./imgs/hands.webp" width="25px">
@@ -26,49 +29,52 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- ![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalfazed&theme=react-dark&area=true&custom_title=kalfazed's%20Contribution%20Graph) -->
 
-![](https://github-readme-stats-4x35.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div class="github-stat">
+  <img src="https://github-readme-stats-4x35.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</div>
 
 ## 📘 My own favorite open source projects
 
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/lucidrains/vit-pytorch.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+<div class="repo-container">
+  <a href="https://github.com/lucidrains/vit-pytorch.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=nightowl&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/NVIDIA/FasterTransformer.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=nightowl&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/NVIDIA/FasterTransformer.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/wang-xinyu/tensorrtx.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</a>
+  <a href="https://github.com/wang-xinyu/tensorrtx.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula"/>
+  </a>
 
-<a href="https://github.com/NVIDIA/cutlass.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=cutlass&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/NVIDIA/cutlass.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=cutlass&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/shouxieai/tensorRT_Pro.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/shouxieai/tensorRT_Pro.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/LunarVim/LunarVim.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/LunarVim/LunarVim.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/kalfazed/tensorrt_starter.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/kalfazed/tensorrt_starter.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/kalfazed/multi-thread-programming.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+  <a href="https://github.com/kalfazed/multi-thread-programming.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=dracula" />
+  </a>
 
-<a href="https://github.com/kalfazed/my_dot_file.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=my_dot_files&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-
+  <a href="https://github.com/kalfazed/my_dot_file.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalfazed&repo=my_dot_files&show_owner=true&theme=dracula" />
+  </a>
+</div>

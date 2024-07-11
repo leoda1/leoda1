@@ -1,0 +1,31 @@
+.repo-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the gap/margin between items as needed */
+}
+
+.repo-container a {
+flex: 1 1 45%; /* Adjust width of each item to fit two columns */
+max-width: calc(50% - 20px); /* Adjust based on gap to ensure proper spacing */
+margin-bottom: 20px; /* Margin below each item */
+}
+
+.github-stat {
+    display: flex;
+    align-items: center;
+    width: auto; /* Adjust width of the image container */
+    margin-left: 3rem; /* Adjust margin between content and image */
+    margin-right: 3rem; /* Adjust margin between content and image */
+}
+
+.github-stat img{
+    display: block;
+    /* height: 10vw; */
+    min-height: 20rem;
+    max-height: 25rem;
+    height: auto;
+    width: auto;
+    border-radius: 8px; /* Optional: Add border radius to the image */
+    margin-right: 1rem; /* Adjust as needed for spacing between images */
+    margin-bottom: 2rem;
+}
