@@ -40,7 +40,7 @@
 <!-- ![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalfazed&theme=react-dark&area=true&custom_title=kalfazed's%20Contribution%20Graph) -->
 
 <div align="center">
-  <img src="https://github-readme-stats-azure-iota.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api?username=kalfazed&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
 
 ## 📘 My own favorite open source projects
@@ -48,42 +48,42 @@
 <!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/lucidrains/vit-pytorch.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/LunarVim/LunarVim.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/wang-xinyu/tensorrtx.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/NVIDIA/cutlass.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=NVIDIA&repo=cutlass&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=NVIDIA&repo=cutlass&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/shouxieai/tensorRT_Pro.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/kalfazed/multi-thread-programming.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/kalfazed/tensorrt_starter.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/kalfazed/my_dot_file.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=kalfazed&repo=my_dot_files&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=kalfazed&repo=my_dot_files&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
   <a href="https://github.com/NVIDIA/FasterTransformer.git">
-    <img src="https://github-readme-stats-azure-iota.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-iota-ochre-17.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 </p>
