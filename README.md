@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Lecturer+in+China+and+Japan;Self-taught+Engineer+and+Researcher;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+China;Researcher;Always+learning+new+things">
 </p>
 
 <p align="center">
@@ -55,15 +55,8 @@
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
-  <a href="https://github.com/NVIDIA/cutlass.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=NVIDIA&repo=cutlass&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
   <a href="https://github.com/shouxieai/tensorRT_Pro.git">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
-  <a href="https://github.com/leoda1/the-notes-of-cuda-c-programming-guide">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-</p>
+
