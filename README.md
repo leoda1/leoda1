@@ -20,7 +20,9 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+Beijing+and+Living+in+Beijing;Researcher;Always+learning+new+things">
 </p>
-
+    <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./img/csdn.png" alt="CSDN"/></a>
+</p>
+      
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
     <img src="https://img.shields.io/static/v1?label=Location&message=China&color=7BB32E&logo=audacity">
