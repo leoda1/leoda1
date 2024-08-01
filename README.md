@@ -16,8 +16,7 @@
     <img src="./imgs/hands.webp" width="25px">
 </h3>
 
-<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Lecturer+in+China+and+Japan;Self-taught+Engineer+and+Researcher;Always+learning+new+things">
 </p>
