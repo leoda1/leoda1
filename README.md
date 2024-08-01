@@ -30,9 +30,6 @@
 <br/>
 
 🎉 **Welcome to my GitHub profile!**
-> Never leave that till tomorrow which you can do today.
->
-> -- <cite><em>Benjamin Franklin</em></cite>
 
 <!-- ## 👨‍💻 My GitHub activities of last 31 days. -->
 
@@ -55,10 +52,6 @@
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
-  <a href="https://github.com/LunarVim/LunarVim.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=LunarVim&repo=LunarVim&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
   <a href="https://github.com/wang-xinyu/tensorrtx.git">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
@@ -71,19 +64,7 @@
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 
-  <a href="https://github.com/kalfazed/multi-thread-programming.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=kalfazed&repo=multi-thread-programming&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
-  <a href="https://github.com/kalfazed/tensorrt_starter.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=kalfazed&repo=tensorrt_starter&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
-  <a href="https://github.com/kalfazed/my_dot_files.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=kalfazed&repo=my_dot_files&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
-  <a href="https://github.com/NVIDIA/FasterTransformer.git">
+  <a href="https://github.com/leoda1/the-notes-of-cuda-c-programming-guide">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=NVIDIA&repo=FasterTransformer&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
 </p>
