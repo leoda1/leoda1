@@ -16,22 +16,17 @@
     <img src="./imgs/hands.webp" width="25px">
 </h3>
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+Beijing+and+Living+in+Beijing;Researcher;Always+learning+new+things">
+</p>
+    <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./imgs/csdn.png" alt="CSDN"/></a>
+</p>
+      
+<p align="center">
+    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
+    <img src="https://img.shields.io/static/v1?label=Location&message=China&color=7BB32E&logo=audacity">
+</p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <!-- Typing SVG GIF -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+Beijing+and+Living+in+Beijing;Researcher;Always+learning+new+things" style="margin-right: 20px;">
-
-    <!-- CSDN 图片链接 -->
-    <a href="https://blog.csdn.net/buuliuda?type=blog" style="margin-right: 20px;">
-        <img src="./imgs/csdn.png" alt="CSDN"/>
-    </a>
-
-    <!-- 徽章 -->
-    <div>
-        <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical" style="margin-right: 10px;">
-        <img src="https://img.shields.io/static/v1?label=Location&message=China&color=7BB32E&logo=audacity">
-    </div>
-</div>
 
 <br/>
 
