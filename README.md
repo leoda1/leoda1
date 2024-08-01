@@ -15,6 +15,9 @@
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+Beijing+and+Living+in+Beijing;Researcher;Always+learning+new+things" alt="Typing SVG" onerror="this.onerror=null; this.src='./imgs/error.png';">
+</p> 
+
+<p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical" alt="Gender" onerror="this.onerror=null; this.src='./imgs/error.png';">
     <img src="https://img.shields.io/static/v1?label=Location&message=China&color=7BB32E&logo=audacity" alt="Location" onerror="this.onerror=null; this.src='./imgs/error.png';">
 </p>
