@@ -1,4 +1,4 @@
-<!-- <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 
 <style>
   :root {
@@ -8,42 +8,36 @@
   }
 </style>
 
- -->
-
-
-<h3 align="center"
+<h3 align="center">
     Hi~ Thank you for coming!
     <img src="./imgs/hands.webp" width="25px">
 </h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+Beijing+and+Living+in+Beijing;Researcher;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=450&height=45&lines=Studying+in+Beijing+and+Living+in+Beijing;Researcher;Always+learning+new+things" alt="Typing SVG" onerror="this.onerror=null; this.src='./imgs/error.png';">
+    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical" alt="Gender" onerror="this.onerror=null; this.src='./imgs/error.png';">
+    <img src="https://img.shields.io/static/v1?label=Location&message=China&color=7BB32E&logo=audacity" alt="Location" onerror="this.onerror=null; this.src='./imgs/error.png';">
 </p>
-    <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./imgs/csdn.png" alt="CSDN"/></a>
-</p>
-      
-<p align="center">
-    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
-    <img src="https://img.shields.io/static/v1?label=Location&message=China&color=7BB32E&logo=audacity">
-</p>
+
 
 
 <br/>
 
 🎉 **Welcome to my GitHub profile!**
 
-<!-- ## 👨‍💻 My GitHub activities of last 31 days. -->
+## 👨‍💻 My GitHub activities.
+- ✍️I regularly write articles on <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./imgs/csdn.png" height="13px" alt="CSDN"/></a>
+- 📚I'm currently learning functional analysis.
+- 🚀My search interests are ```CV```, ```NLP``` and ```HPC```.
+- 🤗I really enjoy talking to talented people.Feel free to ✉️e-mail(20231083510920@buu.edu.cn)
+- ⚡Fun fact: Actually, when I first used ```leoda``` as my username, I just wanted to remember the name ```leo``` because it was the name my English teacher gave me in the first grade of junior high school, and it is similar to the Chinese character ```刘```.
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- ![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalfazed&theme=react-dark&area=true&custom_title=kalfazed's%20Contribution%20Graph) -->
 
 <div align="center">
   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
 
 ## 📘 My own favorite open source projects
-
-<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/lucidrains/vit-pytorch.git">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=dracula" width=48% height=20%/>
