@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<!-- <link rel="stylesheet" href="style.css">
 
 <style>
   :root {
@@ -6,7 +6,7 @@
     --github-stat-style: "display: flex; align-items: center; width: auto; margin-left: 3rem; margin-right: 3rem;";
     --github-stat-img-style: "display: block; min-height: 20rem; max-height: 25rem; height: auto; width: auto; border-radius: 8px; margin-right: 1rem; margin-bottom: 2rem;";
   }
-</style>
+</style> -->
 
 <h3 align="center">
     Hi~ Thank you for coming!
