@@ -30,9 +30,8 @@
 
 ## 👨‍💻 My GitHub activities.
 - ✍️I regularly write articles on <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./imgs/csdn.png" height="13px" alt="CSDN"/></a>
-- 📚I'm currently learning functional analysis.
 - 🚀My search interests are ```CV```, ```NLP``` and ```HPC```.
-- 🤗I really enjoy talking to talented people.Feel free to ✉️e-mail(20231083510920@buu.edu.cn)
+- 🤗Feel free to ✉️e-mail(20231083510920@buu.edu.cn)
 - ⚡Fun fact: Actually, when I first used ```leoda``` as my username, I just wanted to remember the name ```leo``` because it was the name my English teacher gave me in the first grade of junior high school, and it is similar to the Chinese character ```刘```.
 
 
@@ -42,14 +41,6 @@
 
 ## 📘 My own favorite open source projects
 <p align="center">
-  <a href="https://github.com/lucidrains/vit-pytorch.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=lucidrains&repo=vit-pytorch&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
-  <a href="https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=NVIDIA-AI-IOT&repo=Lidar_AI_Solution&show_owner=true&theme=dracula" width=48% height=20%/>
-  </a>
-
   <a href="https://github.com/wang-xinyu/tensorrtx.git">
     <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
   </a>
