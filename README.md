@@ -42,11 +42,11 @@
 ## 📘 My own favorite open source projects
 <p align="center">
   <a href="https://github.com/wang-xinyu/tensorrtx.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula&layout=compact" width=48% height=150/>
   </a>
 
   <a href="https://github.com/shouxieai/tensorRT_Pro.git">
-    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula" width=48% height=20%/>
+    <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula&layout=compact" width=48% height=150/>
   </a>
 
 
