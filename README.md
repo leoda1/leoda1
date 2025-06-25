@@ -26,19 +26,31 @@
 - ⚡Fun fact: Actually, when I first used ```leoda``` as my username, I just wanted to remember the name ```leo``` because it was the name my English teacher gave me in the first grade of junior high school, and it is similar to the Chinese character ```刘```.
 
 
-<!--<div align="center"> -->
-<!--   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
-<!-- </div> -->
-
 <div align="center">
 
-<img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
-<img src="https://streak-stats.demolab.com/?user=leoda1&theme=algolia&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
-       style="height:145px; display:inline-block; margin-right:20px;" />
-<img src="https://komarev.com/ghpvc/?username=leoda1&label=Profile%20views&color=0e75b6&style=flat" 
-     style="height:145px; display:inline-block;" />
+  <!-- 第一行 -->
+  <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+       width="48%" style="margin: 5px;" />
+  <img src="https://streak-stats.demolab.com/?user=leoda1&theme=algolia&hide_border=true"
+       width="48%" style="margin: 5px;" />
+
+  <!-- 第二行 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
+       width="48%" style="margin: 5px;" />
+   <div style="width:48%; display:inline-block; text-align:center; margin: 5px;">
+    <a href="https://www.linkedin.com/in/dimetrix?button=4" target="_blank">
+      <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" />
+    </a>
+    <a href="https://www.linkedin.com/in/dimetrix?button=5" target="_blank">
+      <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" />
+    </a>
+    <br/>
+    <span style="font-size:12px;">Press A or B</span>
+  </div>
+
 </div>
+
+
 
 
 ## 📘 My own favorite open source projects
