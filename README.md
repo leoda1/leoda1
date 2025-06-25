@@ -30,7 +30,7 @@
 
   <!-- 第一行 -->
   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-       width="48%" style="margin: 5px;" />
+       width="45%" style="margin: 5px;" />
   <img src="https://streak-stats.demolab.com/?user=leoda1&theme=algolia&hide_border=true"
        width="48%" style="margin: 5px;" />
 
