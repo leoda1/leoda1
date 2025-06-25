@@ -33,9 +33,13 @@
 <div align="center">
 
 <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff" /> 
-
+<img src="https://streak-stats.demolab.com/?user=leoda1&theme=algolia&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
+       style="height:145px; display:inline-block; margin-right:20px;" />
+<img src="https://komarev.com/ghpvc/?username=leoda1&label=Profile%20views&color=0e75b6&style=flat" 
+     style="height:145px; display:inline-block;" />
 </div>
+
 
 ## 📘 My own favorite open source projects
 <p align="center">
