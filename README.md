@@ -26,8 +26,15 @@
 - ⚡Fun fact: Actually, when I first used ```leoda``` as my username, I just wanted to remember the name ```leo``` because it was the name my English teacher gave me in the first grade of junior high school, and it is similar to the Chinese character ```刘```.
 
 
+<!--<div align="center"> -->
+<!--   <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
+<!-- </div> -->
+
 <div align="center">
-  <img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
+<img src="https://github-readme-stats-amber-xi-40.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff" /> 
+
 </div>
 
 ## 📘 My own favorite open source projects
