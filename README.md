@@ -39,10 +39,18 @@
 
 ## 📘 My own favorite open source projects
 <p align="center">
-    <a href="https://github.com/wang-xinyu/tensorrtx.git">
-        <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&show_owner=true&theme=dracula&layout=compact" width="48%" height="150" />
+    <!-- 第一行 -->
+    <a href="https://github.com/wang-xinyu/tensorrtx">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wang-xinyu&repo=tensorrtx&theme=dracula" width="48%" />
     </a>
-    <a href="https://github.com/shouxieai/tensorRT_Pro.git">
-        <img src="https://github-readme-stats-amber-xi-40.vercel.app/api/pin/?username=shouxieai&repo=tensorRT_Pro&show_owner=true&theme=dracula&layout=compact" width="48%" height="150" />
+    <a href="https://github.com/xlite-dev/LeetCUDA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xlite-dev&repo=LeetCUDA&theme=dracula" width="48%" />
+    </a>
+    <!-- 第二行 -->
+    <a href="https://github.com/NVIDIA/nccl">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA&repo=nccl&theme=dracula" width="48%" />
+    </a>
+    <a href="https://github.com/gpu-mode/lectures">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gpu-mode&repo=lectures&theme=dracula" width="48%" />
     </a>
 </p>
