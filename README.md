@@ -18,7 +18,7 @@
 <br/>
 
 
-## 👨‍💻 My GitHub activities | | | | | | | | | | |  | | | | | | |  | | | | | | | | | | | | | | | 🎉 **Welcome to my GitHub!**
+## 👨‍💻 My GitHub activities| | | | | | |  | | | | | | |  | | | | | | | | | | | | | | | 🎉 **Welcome to my GitHub!**
 - ✍️I regularly write articles on <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./imgs/csdn.png" height="13px" alt="CSDN"/></a>
 - 🚀My search interests are ```CV```, ```NLP``` and ```HPC```.
 - 🤗Feel free to ✉️e-mail(20231083510920@buu.edu.cn)
