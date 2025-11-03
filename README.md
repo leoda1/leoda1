@@ -20,8 +20,7 @@
 
 ## 👨‍💻 My GitHub activities| | | | | | |  | | | | | | |  | | | | | | | | | | | | | | | 🎉 **Welcome to my GitHub!**
 - ✍️I regularly write articles on <a href="https://blog.csdn.net/buuliuda?type=blog"><img src="./imgs/csdn.png" height="13px" alt="CSDN"/></a>
-- 🚀My search interests are ```CV```, ```NLP``` and ```HPC```.
-- 🤗Feel free to ✉️e-mail(20231083510920@buu.edu.cn)
+- 🤗Feel free to ✉️e-mail(liud33787@gmail.com)
 - ⚡Fun fact: Actually, when I first used ```leoda``` as my username, I just wanted to remember the name ```leo``` because it was the name my English teacher gave me in the first grade of junior high school, and it is similar to the Chinese character ```刘```.
 
 
