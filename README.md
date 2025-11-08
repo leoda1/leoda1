@@ -27,12 +27,12 @@
 <div align="center">
 
   <!-- 第一行 -->
-  <img src="https://github-readme-stats-seven-mu-98.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+  <img src="https://github-readme-stats.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
        width="45%" style="margin: 5px;" />
   <img src="https://streak-stats.demolab.com/?user=leoda1&theme=algolia&hide_border=true" />
 
   <!-- 第二行 -->
-  <img src="https://github-readme-stats-seven-mu-98.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
        width="48%" style="margin: 5px;" />
    <div style="width:48%; display:inline-block; text-align:center; margin: 5px;">
     <a href="https://www.linkedin.com/in/dimetrix?button=4" target="_blank">
