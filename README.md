@@ -28,15 +28,16 @@
     <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&exclude_repo=OpenVINO-CSharp-API.docs,cuiyixin555.github.io&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" height=180/></span>
 </div>
 
+<div align=center>
+    <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoda1&theme=algolia"></span>
+</div>
+
 <div align="center">
-  <!-- 第二行 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
-       width="48%" style="margin: 5px;" />
    <div style="width:48%; display:inline-block; text-align:center; margin: 5px;">
-    <a href="https://www.linkedin.com/in/dimetrix?button=4" target="_blank">
+    <a href="https://www.linkedin.com/in/leoda1/" target="_blank">
       <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" />
     </a>
-    <a href="https://www.linkedin.com/in/dimetrix?button=5" target="_blank">
+    <a href="https://www.linkedin.com/in/leoda1/" target="_blank">
       <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" />
     </a>
     <br/>
