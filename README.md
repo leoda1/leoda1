@@ -23,14 +23,12 @@
 - 🤗Feel free to ✉️e-mail(liud33787@gmail.com)
 - ⚡Fun fact: Actually, when I first used ```leoda``` as my username, I just wanted to remember the name ```leo``` because it was the name my English teacher gave me in the first grade of junior high school, and it is similar to the Chinese character ```刘```.
 
+<div align=left>
+    <span><img src="https://github-readme-stats.vercel.app/api?username=leoda1&show_icons=true&theme=tokyonight" height=180/></span>
+    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&exclude_repo=OpenVINO-CSharp-API.docs,cuiyixin555.github.io&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" height=180/></span>
+</div>
 
 <div align="center">
-
-  <!-- 第一行 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=leoda1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-       width="45%" style="margin: 5px;" />
-  <img src="https://streak-stats.demolab.com/?user=leoda1&theme=algolia&hide_border=true" />
-
   <!-- 第二行 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoda1&layout=compact&theme=blue-green&title_color=00b3ff"
        width="48%" style="margin: 5px;" />
